@@ -16,7 +16,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     @IBOutlet weak var imageView: UIImageView!
     
     
-    let apiKey = "API_KEY"
+    let apiKey = "API_KEY_HERE"
     let version = "2018-11-19"
     
     let imagePicker = UIImagePickerController()
